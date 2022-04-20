@@ -32,6 +32,12 @@
   - https://www.mysql.com/cn/
 
 # 持续集成 CI - Continuous integration
+## Github Actions
+[GitHub Actions 官方](https://docs.github.com/cn/actions)
+[GitHub Actions 快速入门](https://docs.github.com/cn/actions/quickstart)
+[Github Workflows 使用工作流程](https://docs.github.com/cn/actions/using-workflows)
+[GitHub Actions 入门教程 - 阮一峰](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+
 ## Docker
   - 项目容器镜像的构建和运行
   - https://www.docker.com/
