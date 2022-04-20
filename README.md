@@ -20,7 +20,7 @@
 ## Midway.js 2.0
   - 项目业务代码使用的框架，类似于Nest.js框架，借鉴了Java的Spring框架思想
   - 阿里淘宝部门出品，中文社区与文档，对国内开发者友好
-  - https://midwayjs.org/
+  - https://midwayjs.org/docs/2.0.0/intro
 
 ## TypeORM
   - 用TypeScript实现的数据库关系对象映射库ORM（Object Relational Mapping）
