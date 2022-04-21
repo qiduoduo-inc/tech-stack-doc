@@ -14,8 +14,12 @@
 
 ## 后端
 ### Node.js 16.0.0
-  - 运行环境
+  - 后端运行环境
   - [Node.js官网](https://nodejs.org/zh-cn/)
+
+### NPM 7.10.0
+  - Node包管理器
+  - [NPM官网](https://www.npmjs.com/
 
 ### Express.js 4.17.3
   - 作为Web服务器
