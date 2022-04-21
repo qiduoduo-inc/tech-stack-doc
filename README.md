@@ -34,28 +34,32 @@
 ## 数据库
 ### MySQL 5.7
   - 开源的关系型数据库
-  - [MySQL](https://www.mysql.com/cn/)
+  - [MySQL官网](https://www.mysql.com/cn/)
 
 ## 服务器
+### 腾讯云云服务器 CVM
+  - 我们的项目部署运行在腾讯云的云服务器上
+  - [腾讯云CVM官网](https://cloud.tencent.com/product/cvm)
+
 ### CentOS 8.2
   - Red Hat Enterprise 系列的开源 Linux 系统
-  - https://www.centos.org/
+  - [CentOS官网](https://www.centos.org/)
 
 ## 代码托管
 ### Github
   - 使用Github组织账号来托管及管理项目代码
-  - [Github](https://github.com)
+  - [Github官网](https://github.com)
 
 ## 持续集成 CI（Continuous integration）
 ### Github Actions
-- [GitHub Actions 官方](https://docs.github.com/cn/actions)
+- [GitHub Actions 官网](https://docs.github.com/cn/actions)
 - [GitHub Actions 快速入门](https://docs.github.com/cn/actions/quickstart)
 - [Github Workflows 使用工作流程](https://docs.github.com/cn/actions/using-workflows)
-- [GitHub Actions 入门教程 - 阮一峰](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 
 ### Docker
   - 项目容器镜像的构建和运行
-  - https://www.docker.com/
+  - [Docker官网](https://www.docker.com/)
 
 ### 参考资料
 - [持续集成是什么？ - 阮一峰](https://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+- [GitHub Actions 入门教程 - 阮一峰](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
