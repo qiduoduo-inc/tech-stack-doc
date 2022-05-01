@@ -4,6 +4,9 @@
 
 1. 配置好自己的Git
 
+- `$ git config --global core.autocrlf false`
+- `$ git config --global pull.rebase true`
+- `$ git config --global push.default current`
 - `$ git config --global user.name "你的名称"`
 - `$ git config --global user.email "你的Github账号邮箱"`
 
