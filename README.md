@@ -1,7 +1,8 @@
 # tech-stack-doc
 企朵朵公司使用的技术栈文档
 
-## 前端
+## Front End
+前端技术栈
 
 ### Vue 3
   - 渐进式前端框架
@@ -21,7 +22,8 @@
   - [Selenium](https://www.selenium.dev/)
   - [Nightwatch](https://nightwatchjs.org/)
 
-## 后端
+## Back End
+后端技术栈
 
 ### Node.js 16.0.0
   - 后端运行环境
@@ -48,22 +50,16 @@
 ### 接口测试框架
   - [Postman](https://www.postman.com/)
 
-## 运维
+## Database
 
-### Ansible
-  - 自动化运维框架
-  - [Ansible官网](https://www.ansible.com/)
-
-### 运维测试框架
-  - [Molecule](https://molecule.readthedocs.io/en/latest/)
-
-## 数据库
+数据库技术栈
 
 ### MySQL 5.7
   - 开源的关系型数据库
   - [MySQL官网](https://www.mysql.com/cn/)
 
-## 服务器
+## Server Operation
+服务器运维技术栈
 
 ### 腾讯云云服务器 CVM
   - 我们的项目部署运行在腾讯云的云服务器上
@@ -73,22 +69,40 @@
   - Red Hat Enterprise 系列的开源 Linux 系统
   - [CentOS官网](https://www.centos.org/)
 
-## 代码托管
+### Ansible
+  - 自动化运维框架
+  - [Ansible官网](https://www.ansible.com/)
+
+### 运维测试框架
+  - [Molecule](https://molecule.readthedocs.io/en/latest/)
+
+## Code Hosting
+
+代码托管
 
 ### Github
   - 使用Github组织账号来托管及管理项目代码
   - [Github官网](https://github.com)
 
-## 持续集成 CI（Continuous integration）
+## Continuous Integration
+持续集成（CI）
 
 ### Github Actions
 - [GitHub Actions 官网](https://docs.github.com/cn/actions)
 - [GitHub Actions 快速入门](https://docs.github.com/cn/actions/quickstart)
 - [Github Workflows 使用工作流程](https://docs.github.com/cn/actions/using-workflows)
 
+## Continuous Deploy
+持续部署（CD）
+
 ### Docker
   - 项目容器镜像的构建和运行
   - [Docker官网](https://www.docker.com/)
+
+### Docker Compose
+  - 容器编排
+  - [Docker Compose官网](https://docs.docker.com/compose/)
+
 
 ### 参考资料
 - [持续集成是什么？ - 阮一峰](https://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
