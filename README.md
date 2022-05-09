@@ -2,6 +2,7 @@
 企朵朵公司使用的技术栈文档
 
 ## 前端
+
 ### Vue 3
   - 渐进式前端框架
   - [Vue3官网](https://vuejs.org/)
@@ -12,7 +13,16 @@
   - [TypeScript官网](https://www.typescriptlang.org/)
   - [TypeScript中文文档](https://www.tslang.cn/)
 
+### JS/TS测试框架
+  - [Mocha](https://mochajs.org/)
+  - [Jest](https://jestjs.io/zh-Hans/)
+
+### 无头浏览器测试框架
+  - [Selenium](https://www.selenium.dev/)
+  - [Nightwatch](https://nightwatchjs.org/)
+
 ## 后端
+
 ### Node.js 16.0.0
   - 后端运行环境
   - [Node.js官网](https://nodejs.org/zh-cn/)
@@ -35,12 +45,26 @@
   - [TypeORM官网](https://typeorm.io/)
   - [TypeORM中文文档](https://typeorm.biunav.com/zh/)
 
+### 接口测试框架
+  - [Postman](https://www.postman.com/)
+
+## 运维
+
+### Ansible
+  - 自动化运维框架
+  - [Ansible官网](https://www.ansible.com/)
+
+### 运维测试框架
+  - [Molecule](https://molecule.readthedocs.io/en/latest/)
+
 ## 数据库
+
 ### MySQL 5.7
   - 开源的关系型数据库
   - [MySQL官网](https://www.mysql.com/cn/)
 
 ## 服务器
+
 ### 腾讯云云服务器 CVM
   - 我们的项目部署运行在腾讯云的云服务器上
   - [腾讯云CVM官网](https://cloud.tencent.com/product/cvm)
@@ -50,11 +74,13 @@
   - [CentOS官网](https://www.centos.org/)
 
 ## 代码托管
+
 ### Github
   - 使用Github组织账号来托管及管理项目代码
   - [Github官网](https://github.com)
 
 ## 持续集成 CI（Continuous integration）
+
 ### Github Actions
 - [GitHub Actions 官网](https://docs.github.com/cn/actions)
 - [GitHub Actions 快速入门](https://docs.github.com/cn/actions/quickstart)
